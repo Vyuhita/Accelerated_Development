@@ -1,2 +1,2 @@
-# d2p_versions
-This code contains different flavours of codes which uses avx, cuda to accelerate the computation.
+# Accelerated Development
+This code contains different flavors of codes that use avx, and cuda to accelerate the computation.
