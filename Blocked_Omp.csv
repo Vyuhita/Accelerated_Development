@@ -1,0 +1,36 @@
+16, 2048, 1024, 998
+16, 2048, 1024, 1060
+NumThreads, Input Size, BlockSize, Time (ms)
+2, 16, 4, 0
+2, 16, 8, 0
+2, 16, 16, 0
+NumThreads, Input Size, BlockSize, Time (ms)
+4, 16, 4, 0
+4, 16, 8, 0
+4, 16, 16, 0
+NumThreads, Input Size, BlockSize, Time (ms)
+1, 16, 4, 0
+1, 16, 8, 0
+1, 16, 16, 0
+NumThreads, Input Size, BlockSize, Time (ms)
+8, 16, 4, 0
+8, 16, 8, 0
+8, 16, 16, 0
+NumThreads, Input Size, BlockSize, Time (ms)
+1, 32, 4, 0
+1, 32, 8, 0
+1, 32, 16, 0
+1, 32, 32, 0
+NumThreads, Input Size, BlockSize, Time (ms)
+1, 32, 4, 0
+1, 32, 8, 0
+1, 32, 16, 0
+1, 32, 32, 0
+4, 16, 2, 0
+4, 32, 2, 0
+8, 2048, 1024, 793
+4, 4096, 1024, 10202
+4, 4096, 1024, 11058
+4, 4096, 1024, 10980
+8, 8192, 1024, 130685
+16, 16384, 1024, 966022
